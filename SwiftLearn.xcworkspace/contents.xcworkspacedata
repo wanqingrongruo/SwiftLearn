@@ -4,7 +4,21 @@
    <FileRef
       location = "group:README.md">
    </FileRef>
-   <FileRef
-      location = "group:GCD01.playground">
-   </FileRef>
+   <Group
+      location = "container:"
+      name = "CGD">
+      <FileRef
+         location = "group:/Users/roni/Desktop/github/swift/GCD01.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Generic">
+      <FileRef
+         location = "group:Generic01.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Generic02.playground">
+      </FileRef>
+   </Group>
 </Workspace>
