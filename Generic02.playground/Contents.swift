@@ -1,6 +1,6 @@
 import UIKit
 
-var str = "Hello, playground"
+var str = "Hello, 泛型和 Any"
 
 /** 泛型和 Any
  *  Any 代替任何类型, 需要使用内省(Introspection)或者动态类型转换 将类型转换成一个具体的类型. Introspection???
