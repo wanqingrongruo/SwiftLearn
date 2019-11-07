@@ -24,4 +24,14 @@
          location = "group:Generic03.playground">
       </FileRef>
    </Group>
+   <Group
+      location = "container:"
+      name = "Protocol">
+      <FileRef
+         location = "group:/Users/roni/Desktop/github/swift/Protocol01.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Protocol02.playground">
+      </FileRef>
+   </Group>
 </Workspace>
